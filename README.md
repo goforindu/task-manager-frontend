@@ -49,6 +49,7 @@ Users can register, login, create tasks, update tasks, delete tasks, search task
 ```bash
 npm install
 npm run dev
+```
 
 ## Screenshots
 
@@ -75,4 +76,3 @@ npm run dev
 ### Pagination
 
 ![Pagination](./screenshots/pagination.png)
-```
